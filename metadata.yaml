@@ -1,0 +1,24 @@
+_repo: Deutsche-Humoristen-4-und-5-Band-von-8_52986
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52986'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Humorous poetry, German'
+- !lcsh 'German wit and humor'
+- GITenberg
+title: Deutsche Humoristen, 4. und 5. Band (von 8)
+url: http://www.gutenberg.org/ebooks/52986
